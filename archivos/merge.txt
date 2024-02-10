@@ -1,0 +1,2 @@
+Después de haber creado el archivo "respuesta.txt" dentro de la carpeta "archivos", si fue posible realizar el commmit y subirlo a GitHub.
+La razón por la que esto ocurrió es porque las carpetas vacías no se consideran como cambios o adiciones de nuevos archivos al proyecto. (Tomado de las diapositivas de clase).
