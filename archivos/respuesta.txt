@@ -1,0 +1,1 @@
+Al intentar realizar el commit aparece el mensaje "A commit summary is required to commit".
