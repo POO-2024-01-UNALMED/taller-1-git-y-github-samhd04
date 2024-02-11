@@ -1,4 +1,7 @@
-Mi nombre es Samuel Hernández Duque y tengo 19 años.
-Hace algunos años empecé a programar en Java con la idea de recrear juegos simples como por ejemplo "Snake". Después de cierto tiempo viendo tutoriales en YouTube, me topé con el tema de "Objected Oriented Programming", pero al final nunca llegué a entenderlo del todo ni aplicarlo en lo que estaba haciendo. Así que con este curso espero poder entender de qué se trata la programación orientada a objetos, cómo aplicar eso en mis propios proyectos y de paso aprender sobre otros temas.
 Después de haber creado el archivo "respuesta.txt" dentro de la carpeta "archivos", si fue posible realizar el commmit y subirlo a GitHub.
 La razón por la que esto ocurrió es porque las carpetas vacías no se consideran como cambios o adiciones de nuevos archivos al proyecto. (Tomado de las diapositivas de clase).
+
+Mi nombre es Samuel Hernández Duque y tengo 19 años.
+Hace algunos años empecé a programar en Java con la idea de recrear juegos simples como por ejemplo "Snake". Después de cierto tiempo viendo tutoriales en YouTube, me topé con el tema de "Objected Oriented Programming", pero al final nunca llegué a entenderlo del todo ni aplicarlo en lo que estaba haciendo. Así que con este curso espero poder entender de qué se trata la programación orientada a objetos, cómo aplicar eso en mis propios proyectos y de paso aprender sobre otros temas.
+
+Es importante tener cuidado al modificar archivos al mismo tiempo, ya que puede que surjan conflictos con los cambios realizados ya sea por un compañero o por nosotros mismos a la hora de subirlos a GitHub.
